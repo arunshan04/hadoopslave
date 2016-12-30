@@ -1,0 +1,4 @@
+# slaves
+# hadoopslave
+# hadoopslave
+# hadoopslave

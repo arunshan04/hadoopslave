@@ -1,0 +1,12 @@
+<configuration>
+  
+  
+  
+    
+    <property>
+        <name>dfs.datanode.data.dir</name>      <value>file:/usr/local/hadoop_store/datanode</value>
+    </property>
+
+ 
+</configuration>
+
